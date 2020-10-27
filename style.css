@@ -1,0 +1,21 @@
+#foto {
+	height:200px;
+	padding-left: 20px;
+
+}
+
+h1 {
+	text-align: center;
+	padding-left: 120px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+body {
+	background: #CCCCCC;
+}
+
+p {
+	font-size: 15px;
+	padding-left: 20px;
+}
