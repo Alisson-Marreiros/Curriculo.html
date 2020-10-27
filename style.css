@@ -7,8 +7,15 @@
 h1 {
 	text-align: center;
 	padding-left: 120px;
-	display: inline-block;
-	vertical-align: top;
+	display: inline;
+	position: absolute;
+	top: 50px;
+	left:200px;
+}
+
+h1:hover {
+	font-size:50px;
+	color:#C78C19;
 }
 
 body {
