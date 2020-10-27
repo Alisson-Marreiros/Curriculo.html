@@ -15,7 +15,7 @@ h1 {
 
 h1:hover {
 	font-size:50px;
-	color:#C78C19;
+	color:##1C1C1C;
 }
 
 body {
@@ -25,4 +25,14 @@ body {
 p {
 	font-size: 15px;
 	padding-left: 20px;
+	margin:10px 0 0;
+}
+
+#foto-final {
+	padding-left: 50px;
+}
+
+footer {
+	text-align: center;
+	font-size:15px;
 }
